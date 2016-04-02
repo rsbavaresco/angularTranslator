@@ -1,0 +1,8 @@
+F:\Unisinos\Tradutores\GB\entrega\org\angulartranslator\emitters\AngularTranslatorEmitter.java
+F:\Unisinos\Tradutores\GB\entrega\org\angulartranslator\lexers\AngularTranslatorLexer.java
+F:\Unisinos\Tradutores\GB\entrega\org\angulartranslator\main\AngularTranslatorMain.java
+F:\Unisinos\Tradutores\GB\entrega\org\angulartranslator\models\AngularTranslatorSemanticModel.java
+F:\Unisinos\Tradutores\GB\entrega\org\angulartranslator\parsers\AngularTranslatorBaseListener.java
+F:\Unisinos\Tradutores\GB\entrega\org\angulartranslator\parsers\AngularTranslatorListener.java
+F:\Unisinos\Tradutores\GB\entrega\org\angulartranslator\parsers\AngularTranslatorParser.java
+F:\Unisinos\Tradutores\GB\entrega\org\angulartranslator\parsers\AngularTranslatorSemanticParser.java
