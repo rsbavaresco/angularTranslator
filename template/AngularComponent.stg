@@ -1,0 +1,17 @@
+angularComponent(directiveName, templateUrl, injections, functionBodyController) ::= <<
+import {Component, View} from 'angular2/angular2';
+	
+@Component({
+	selector: '<directiveName>'	
+})
+	
+@View({
+	templateUrl: <templateUrl>
+})		
+
+export class <directiveName> {
+	constructor(<injections>){
+		<functionBodyController>
+	}
+}
+>>
