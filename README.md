@@ -13,4 +13,5 @@ Obs: Arquivos .java estão em seus devidos packages, na pasta org/*
 java org.angulartranslator.main.AngularTranslatorMain NavbarContentDirective.ts
 
 4 - Entrada exemplo: NavbarContentDirective.ts
+
 5 - Saída esperada: NavbarContentComponent.ts
