@@ -1,5 +1,5 @@
 # angularTranslator
-Class work of Translators lecture undergraduate at Unisinos
+Class work of Translators lecture undergraduate
 
 About: Converts a Angular 1.x Diretives to Angular 2.0 Components. Angular source written in Typescript.
 
