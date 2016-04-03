@@ -1,7 +1,9 @@
 # angularTranslator
 Class work of Translators lecture undergraduate at Unisinos
 
-About: Converts a Angular 1.x Diretives to Angular 2.0 Components
+About: Converts a Angular 1.x Diretives to Angular 2.0 Components. Angular source written in Typescript.
+
+
 
 1 - Colocar os jars da pasta bin na variável de ambiente ClassPath
 
