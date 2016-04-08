@@ -1,8 +1,7 @@
 # angularTranslator
-Class work of Translators lecture undergraduate
+Class work of Translators lecture undergraduate using ANTLR and Java
 
 About: Converts a Angular 1.x Diretives to Angular 2.0 Components. Angular source written in Typescript.
-
 
 
 1 - Colocar os jars da pasta bin na variável de ambiente ClassPath
@@ -12,6 +11,7 @@ About: Converts a Angular 1.x Diretives to Angular 2.0 Components. Angular sourc
 Obs: Arquivos .java estão em seus devidos packages, na pasta org/*
 
 3 - Para rodar: 
+
 java org.angulartranslator.main.AngularTranslatorMain NavbarContentDirective.ts
 
 4 - Entrada exemplo: NavbarContentDirective.ts
